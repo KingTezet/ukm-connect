@@ -122,7 +122,8 @@
                     <input type="file" name="cv" accept=".pdf">
                 </div>
 
-                <button type="submit" class="btn">Submit</button>
+                <a class="btn prev-btn" href="#">Sebelumnya</a>
+                <button type="submit" class="btn btn-sbt">Submit</button>
             </div>
         </form>
     </div>
