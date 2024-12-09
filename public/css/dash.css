@@ -262,7 +262,13 @@ select:focus {
 .next-btn:hover {
     background-color: #4d6e47; /* Warna hijau lebih gelap saat hover */
 }
+.btn-sbt {
+    background-color: #588157; /* Warna hijau */
+}
 
+.btn-sbt:hover {
+    background-color: #4d6e47; /* Warna hijau lebih gelap saat hover */
+}
 /* Tombol 'Sebelumnya' dengan warna kuning keemasan (#FFC300) */
 .prev-btn {
     background-color: #FFC300; /* Warna kuning keemasan */
